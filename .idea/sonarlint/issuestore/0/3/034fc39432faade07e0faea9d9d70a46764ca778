@@ -1,0 +1,103 @@
+
+\	java:S112‰	"FDefine and throw a dedicated exception instead of using a generic one.(Ç¬™
+˜
+java:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ı¿À
+?	java:S108¸")Either remove or fill this block of code.(Ì¿Ôñ
+T
+java:S1117ı"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œçû†şÿÿÿÿ
+Q
+java:S1161‚":Add the "@Override" annotation above this method signature(ÿ†çö
+A
+java:S1181ˆ	"%Catch Exception instead of Throwable.(€çØıÿÿÿÿÿ
+V
+java:S1161ş":Add the "@Override" annotation above this method signature(€’øûÿÿÿÿ
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡Š¢‚ÿÿÿÿÿ
+T
+java:S1117¿"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+T
+java:S1117Ö"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+D	java:S108š")Either remove or fill this block of code.(¦ñ¾›úÿÿÿÿ
+n
+java:S3077‹"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥—Ä
+T
+java:S1117«"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+T
+java:S1117Ñ"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òÕ…ûÿÿÿÿ
+T
+java:S1117€"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+T
+java:S1117ó"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(Æ· íùÿÿÿÿ
+T
+java:S1117í"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+D
+java:S1948ä"(Make "thread" transient or serializable.(õ×Íùøÿÿÿÿ
+s
+java:S3077†"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(§Ó¾±şÿÿÿÿ
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ä”ŸÕ
+T
+java:S1117ø
+"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+B
+java:S1948æ"+Make "firstTask" transient or serializable.(…İÑÑ
+R	java:S125ö"<This block of commented-out lines of code should be removed.(ÔüŒõ
+T
+java:S1117˜"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿáæ˜ıÿÿÿÿ
+T
+java:S1117›"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+I
+java:S1113Ô"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+i
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÑµºË
+o	java:S135˜"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ Ã¿
+
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¸À¶ûÿÿÿÿ
+T
+java:S1117ê"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+˜
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áâò•
+W
+java:S1119Œ";Refactor the code to remove this label and the need for it.(ÙÑÏ§şÿÿÿÿ
+V	java:S899Š";Do something with the "boolean" value returned by "remove".(×à¡Ñûÿÿÿÿ
+[
+java:S3358"DExtract this nested ternary operation into an independent statement.(ƒ©ÖÆ
+u
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ÅºÈüÿÿÿÿ
+T
+java:S1117Á"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+T
+java:S1117Ê"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+T
+java:S1117­"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+b
+java:S2147†	"FCombine this catch with the one at line 1156, which has the same body.(ìéÏ¶úÿÿÿÿ
+T
+java:S1117˜"=Rename "mainLock" which hides the field declared at line 469.( ô®Õ
+—
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üã¦%
+^
+java:S1117¹"BRename "keepAliveTime" which hides the field declared at line 531.(şáøòûÿÿÿÿ
+2
+java:S3626Ô"Remove this redundant jump.(ûÁİ…
+]
+java:S2142¼"FEither re-interrupt this method or rethrow the "InterruptedException".(Ì‡Ã
+˜
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ›ó¶
+=
+java:S1181†	"!Catch Exception instead of Error.(ìéÏ¶úÿÿÿÿ
+A
+java:S1659ÿ"%Declare "nactive" on a separate line.(šÄ¸Ùıÿÿÿÿ
+D	java:S108£")Either remove or fill this block of code.(¦ñ¾›úÿÿÿÿ
+U
+java:S3078	">Use an "AtomicLong" for this field; its operations are atomic.(ì£ÇÙ

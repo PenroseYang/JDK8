@@ -1,0 +1,37 @@
+
+n	java:S127Ü("XRefactor the code in order to not assign to this loop counter from within the loop body.(ú£üÚ
+n	java:S127ß("XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+s	java:S127ƒ)"XRefactor the code in order to not assign to this loop counter from within the loop body.(ìÙµ®ýÿÿÿÿ
+n	java:S127†)"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+L
+java:S1133Õ	"5Do not forget to remove this deprecated code someday.(è©ÑŠ
+O
+java:S1197€"8Move the array designator from the variable to the type.(¥Ûœâ
+@
+java:S1659°"$Declare "bottom" on a separate line.(òô‚ôüÿÿÿÿ
+A
+java:S1659°"%Declare "current" on a separate line.(òô‚ôüÿÿÿÿ
+i
+java:S2786ü"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(âé¨Ð
+W	java:S125©""<This block of commented-out lines of code should be removed.(áÕóøøÿÿÿÿ
+W	java:S125 #"<This block of commented-out lines of code should be removed.(ô¢‡þÿÿÿÿ
+O
+java:S1197À#"8Move the array designator from the variable to the type.(àê¾‰
+?
+java:S2129Ä#"#Remove this "Character" constructor(Þ·ñüÿÿÿÿ
+?
+java:S2129Ý#"#Remove this "Character" constructor(—š¦øûÿÿÿÿ
+O
+java:S1197œ$"8Move the array designator from the variable to the type.(Ó«™›
+W	java:S125å%"<This block of commented-out lines of code should be removed.(Ò“±Áøÿÿÿÿ
+n
+java:S3776¢)"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(á•Â“ûÿÿÿÿ
+n
+java:S3776î)"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(„ÙÈúÿÿÿÿ
+Q
+java:S1133û-"5Do not forget to remove this deprecated code someday.(ÜƒµÉüÿÿÿÿ
+Q
+java:S1133Ÿ."5Do not forget to remove this deprecated code someday.(¶ÆŽƒüÿÿÿÿ
+Q
+java:S1133†4"5Do not forget to remove this deprecated code someday.(‹Åþ—üÿÿÿÿ
+W	java:S125°5"<This block of commented-out lines of code should be removed.(—ŽÈûÿÿÿÿ

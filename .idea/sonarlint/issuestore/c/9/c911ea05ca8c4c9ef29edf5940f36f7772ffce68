@@ -1,0 +1,71 @@
+
+P
+java:S1161¨":Add the "@Override" annotation above this method signature(ºˆ¡
+V
+java:S1117Š":Rename "count" which hides the field declared at line 140.(ŞÜ´´úÿÿÿÿ
+Y
+java:S1117É"=Rename "takeLock" which hides the field declared at line 155.(–õíßùÿÿÿÿ
+Q	java:S125¥"<This block of commented-out lines of code should be removed.(°Ôû
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+E
+java:S1121œ".Extract the assignment out of this expression.(æ¾ˆ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(ÂÄ±×ıÿÿÿÿ
+p
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+V
+java:S1117È":Rename "count" which hides the field declared at line 140.(ŞÜ´´úÿÿÿÿ
+V
+java:S1117û":Rename "count" which hides the field declared at line 140.(ŞÜ´´úÿÿÿÿ
+Y
+java:S1117”"=Rename "takeLock" which hides the field declared at line 155.(–õíßùÿÿÿÿ
+V
+java:S1117å":Rename "count" which hides the field declared at line 140.(ŞÜ´´úÿÿÿÿ
+[
+java:S3358†"DExtract this nested ternary operation into an independent statement.(»³¡
+Y
+java:S1117ö"=Rename "takeLock" which hides the field declared at line 155.(–õíßùÿÿÿÿ
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Èã¯
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(Ğ¤òùÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(Úùóşÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¦ÛªÂÿÿÿÿÿ
+S
+java:S1117¾"<Rename "putLock" which hides the field declared at line 164.(ÛšÁü
+S
+java:S1117œ"<Rename "putLock" which hides the field declared at line 164.(ÛšÁü
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(Ï‡¶îúÿÿÿÿ
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Èã¯
+V
+java:S1117İ":Rename "count" which hides the field declared at line 140.(ŞÜ´´úÿÿÿÿ
+Y
+java:S1117±"=Rename "takeLock" which hides the field declared at line 155.(–õíßùÿÿÿÿ
+S
+java:S1117‰"<Rename "putLock" which hides the field declared at line 164.(ÛšÁü
+V
+java:S1117«":Rename "count" which hides the field declared at line 140.(ŞÜ´´úÿÿÿÿ
+S
+java:S1117°"<Rename "putLock" which hides the field declared at line 164.(ÛšÁü
+Y
+java:S1117€"=Rename "takeLock" which hides the field declared at line 155.(–õíßùÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ê‚¸
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı·Ê«şÿÿÿÿ
+Q	java:S125f"<This block of commented-out lines of code should be removed.(ÏÖ¦Û
+i
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(÷¾˜
+p
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ê‚¸
+S
+java:S1117Ü"<Rename "putLock" which hides the field declared at line 164.(ÛšÁü
+Y
+java:S1117æ"=Rename "takeLock" which hides the field declared at line 155.(–õíßùÿÿÿÿ
+h
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºˆ¡

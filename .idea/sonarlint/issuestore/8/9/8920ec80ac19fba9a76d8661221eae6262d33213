@@ -1,0 +1,28 @@
+
+P
+java:S1191%"5Use classes from the Java API instead of Sun classes.(òÀ½şÿÿÿÿ
+K
+java:S1066õ"/Merge this if statement with the enclosing one.(¥€‘Ÿúÿÿÿÿ
+:
+java:S1948ö"#Make "h" transient or serializable.(ú‰Ñ‰
+W	java:S125¡"<This block of commented-out lines of code should be removed.(ËÉÔ øÿÿÿÿ
+o
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌúÀ-
+?
+java:S1659ß"#Declare "intf2" on a separate line.(µ˜ëĞüÿÿÿÿ
+u	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹Ê±òıÿÿÿÿ
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(À¹í§úÿÿÿÿ
+?	java:S108Â")Either remove or fill this block of code.(ıàÑÎ
+M
+java:S1854Ú"6Remove this useless assignment to local variable "ih".(ÈÍ½è
+a
+java:S2147í"ECombine this catch with the one at line 740, which has the same body.(¼¯•¶ùÿÿÿÿ
+H
+java:S3011Ş",This accessibility update should be removed.(â¦ üÿÿÿÿ
+T
+java:S3878ã"8Remove this array creation and simply pass the elements.(½¼’Äúÿÿÿÿ
+>
+java:S1481Ú"'Remove this unused "ih" local variable.(ÈÍ½è
+F
+java:S3398Â"*Move this method into "ProxyClassFactory".(óŒè×şÿÿÿÿ

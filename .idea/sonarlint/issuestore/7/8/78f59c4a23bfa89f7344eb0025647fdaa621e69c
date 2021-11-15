@@ -1,0 +1,43 @@
+
+K
+java:S1191-"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
+e
+java:S3014Ö"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ
+o
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(Í­£‰
+u
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÄ´ıùÿÿÿÿ
+p
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ŞèÁ
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÄ´ıùÿÿÿÿ
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËºØ±
+u
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(øŞàøÿÿÿÿ
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‘Š ùÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ÿ üÿÿÿÿ
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÚ«¹şÿÿÿÿ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ğºâ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(Ï¾ŞËùÿÿÿÿ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(è¼ãó
+P
+java:S1161¨":Add the "@Override" annotation above this method signature(·ÓñR
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(§©³Ñ
+Q
+java:S1161®":Add the "@Override" annotation above this method signature(²°ıù
+V
+java:S1161²":Add the "@Override" annotation above this method signature(Òó½™şÿÿÿÿ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(“À‘úÿÿÿÿ
+Q
+java:S1161»":Add the "@Override" annotation above this method signature(¡®¤Ñ
+I
+java:S1113Ç"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ

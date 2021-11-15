@@ -1,0 +1,25 @@
+
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(î£¡„
+?	java:S108")Either remove or fill this block of code.(î§Ÿ¹
+n
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(îç¸‚øÿÿÿÿ
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Ó‹èÿÿÿÿÿ
+|
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Å®€şÿÿÿÿ8£Üõ–/
+K	java:S108Â")Either remove or fill this block of code.(¨ÿÊ»úÿÿÿÿ8£Üõ–/
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Å®€şÿÿÿÿ8£Üõ–/
+t
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ÙÂ‚ûÿÿÿÿ
+h
+java:S2147Â"ECombine this catch with the one at line 321, which has the same body.(¨ÿÊ»úÿÿÿÿ8£Üõ–/
+h
+java:S2147‘"ECombine this catch with the one at line 272, which has the same body.(¨ÿÊ»úÿÿÿÿ8£Üõ–/
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Òó½™şÿÿÿÿ8£Üõ–/
+?	java:S108Á")Either remove or fill this block of code.(î§Ÿ¹
+t
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(†çıòûÿÿÿÿ
+K	java:S108‘")Either remove or fill this block of code.(¨ÿÊ»úÿÿÿÿ8£Üõ–/

@@ -1,0 +1,6 @@
+
+O
+java:S1481"4Remove this unused "executorService" local variable.(¸‘æÃ8·Æ †–/
+^
+java:S1854"CRemove this useless assignment to local variable "executorService".(¸‘æÃ8·Æ †–/
+l	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò×¶l

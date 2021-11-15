@@ -1,0 +1,50 @@
+
+P
+java:S1191*"5Use classes from the Java API instead of Sun classes.(«ª§Ûüÿÿÿÿ
+j
+java:S1192’"SDefine a constant instead of duplicating this literal "host can't be null" 3 times.(¿Óª²
+e
+java:S3014ë"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(í€İëùÿÿÿÿ
+`
+java:S3014í"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(„–´„
+`
+java:S3014î"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ø³Ùâ
+`
+java:S3014Ô"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‰€“â
+e
+java:S3014ï"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¤şä½ùÿÿÿÿ
+j
+java:S1128""TRemove this unnecessary import: same package classes are always implicitly imported.(Óû¥ó
+K
+java:S1128%"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+Q
+java:S1133î"5Do not forget to remove this deprecated code someday.(™Ü¸®ûÿÿÿÿ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(ñ±Ñ¸
+L
+java:S1133ã"5Do not forget to remove this deprecated code someday.(åËŸ²
+L
+java:S1133’"5Do not forget to remove this deprecated code someday.(°ê¸Í
+Q
+java:S1133¦"5Do not forget to remove this deprecated code someday.(ºÖºàüÿÿÿÿ
+L
+java:S1133Ì"5Do not forget to remove this deprecated code someday.(Õ’ü¥
+Q
+java:S1133æ"5Do not forget to remove this deprecated code someday.(ûÉ¶²ûÿÿÿÿ
+Q
+java:S1133÷"5Do not forget to remove this deprecated code someday.(­–ÒŠùÿÿÿÿ
+L
+java:S1133Í	"5Do not forget to remove this deprecated code someday.(ÙÊãè
+Q
+java:S1133½
+"5Do not forget to remove this deprecated code someday.(ÌÔ”±ûÿÿÿÿ
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(©ë¤öüÿÿÿÿ
+Q
+java:S1133¥"5Do not forget to remove this deprecated code someday.(Ë¡›°ûÿÿÿÿ
+T
+java:S1197Æ"8Move the array designator from the variable to the type.(¥éø•üÿÿÿÿ
+Q
+java:S1133¨"5Do not forget to remove this deprecated code someday.(Ò¢Ü‹ıÿÿÿÿ
+T
+java:S1197­"8Move the array designator from the variable to the type.(½íÅ“ûÿÿÿÿ

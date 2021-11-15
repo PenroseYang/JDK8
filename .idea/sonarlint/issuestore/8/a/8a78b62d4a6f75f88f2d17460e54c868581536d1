@@ -1,0 +1,114 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬Ô«ûÿÿÿÿ
+V
+java:S1144š":Remove this unused private "DirectByteBuffer" constructor.(¬êêõúÿÿÿÿ
+D
+java:S1905¯"-Remove this unnecessary cast to "LongBuffer".(ã˜Ô°
+0
+java:S2183"Remove this useless shift(øƒê‹
+D
+java:S1905"-Remove this unnecessary cast to "CharBuffer".(Ï÷Í
+I
+java:S1905½"-Remove this unnecessary cast to "LongBuffer".(£¸ä‘ÿÿÿÿÿ
+5
+java:S2183Å"Remove this useless shift(ê¤¥ûÿÿÿÿ
+8
+java:S1110ö"!Remove these useless parentheses.(šÈ—Í
+Z
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+0
+java:S2183ñ"Remove this useless shift(ÒÚÉô
+Q
+java:S1161Û":Add the "@Override" annotation above this method signature(Ì°¢ú
+Z
+java:S2583Ë"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+t	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óµŞÏûÿÿÿÿ
+=
+java:S1110ò"!Remove these useless parentheses.(‚§‘ùÿÿÿÿ
+I
+java:S1905²"-Remove this unnecessary cast to "CharBuffer".(ƒÆ¥Îüÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(Ò½—óşÿÿÿÿ
+0
+java:S2183Ì"Remove this useless shift(ßàÍÜ
+_
+java:S2583¼"CChange this condition so that it does not always evaluate to "true"(¶¾±µşÿÿÿÿ
+_
+java:S2583ª"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+=
+java:S1110¢"!Remove these useless parentheses.(õœğùÿÿÿÿ
+C
+java:S1905¬"-Remove this unnecessary cast to "CharBuffer".(Í‹ÌQ
+_
+java:S2583Ï"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+Z
+java:S2583â"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+K
+java:S1905ù"/Remove this unnecessary cast to "DoubleBuffer".(¥´ü«øÿÿÿÿ
+C
+java:S1905Ô",Remove this unnecessary cast to "IntBuffer".(˜•«Ô
+I
+java:S1905µ"-Remove this unnecessary cast to "LongBuffer".(çîğııÿÿÿÿ
+E
+java:S1905ÿ".Remove this unnecessary cast to "ShortBuffer".(£é–˜
+J
+java:S1905Š".Remove this unnecessary cast to "FloatBuffer".(äŒá·ûÿÿÿÿ
+5
+java:S2183İ"Remove this useless shift(£õéüÿÿÿÿÿ
+_
+java:S2583ô"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+H
+java:S1905Ú",Remove this unnecessary cast to "IntBuffer".(¬¼‡Äúÿÿÿÿ
+P
+java:S1161²":Add the "@Override" annotation above this method signature(¹…¹&
+Z
+java:S2583†"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+=
+java:S1110«"!Remove these useless parentheses.(›ğõûıÿÿÿÿ
+E
+java:S1905˜".Remove this unnecessary cast to "FloatBuffer".(±•Æ
+_
+java:S2583Í"CChange this condition so that it does not always evaluate to "true"(¶¾±µşÿÿÿÿ
+J
+java:S1905".Remove this unnecessary cast to "FloatBuffer".(„Ç“úüÿÿÿÿ
+F
+java:S1905ó"/Remove this unnecessary cast to "DoubleBuffer".(¯’ë¾
+0
+java:S2183ƒ"Remove this useless shift(µ¤æ©
+K
+java:S1905ë"/Remove this unnecessary cast to "DoubleBuffer".(×ªíÙøÿÿÿÿ
+D
+java:S1905¤"-Remove this unnecessary cast to "CharBuffer".(Î‚
+E
+java:S1905".Remove this unnecessary cast to "ShortBuffer".(úë’…
+I
+java:S1905Ã"-Remove this unnecessary cast to "LongBuffer".(ø–‹‚ùÿÿÿÿ
+J
+java:S1905".Remove this unnecessary cast to "FloatBuffer".(™‹Â¶ÿÿÿÿÿ
+F
+java:S2160%"+Override the "equals" method in this class.( Êáêıÿÿÿÿ
+C
+java:S1905â",Remove this unnecessary cast to "IntBuffer".(İªü
+5
+java:S2183î"Remove this useless shift(òµı°ùÿÿÿÿ
+Z
+java:S2583Á"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+Q
+java:S1161ÿ":Add the "@Override" annotation above this method signature(³”§ñ
+5
+java:S2183ï"Remove this useless shift(†§°Ïüÿÿÿÿ
+C
+java:S1905è",Remove this unnecessary cast to "IntBuffer".( ±Í·
+o	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½ñ·ù
+_
+java:S2583™"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+F
+java:S1905å"/Remove this unnecessary cast to "DoubleBuffer".(‡ø¡
+_
+java:S2583…"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+J
+java:S1905ù".Remove this unnecessary cast to "ShortBuffer".(°‡ÊÈúÿÿÿÿ
+_
+java:S2583à"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+E
+java:S1905‡".Remove this unnecessary cast to "ShortBuffer".(«§“Ú

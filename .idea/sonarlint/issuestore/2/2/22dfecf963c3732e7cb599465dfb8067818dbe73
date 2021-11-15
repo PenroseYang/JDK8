@@ -1,0 +1,9 @@
+
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(¼Õ—°8¤‘úÎ/
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(€»¼š8¤‘úÎ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öêé¢
+s
+java:S2095$"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(±½Âãúÿÿÿÿ8¤‘úÎ/
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(„ÆÄùÿÿÿÿ8¤‘úÎ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğã¤´ıÿÿÿÿ8»“„Ï/

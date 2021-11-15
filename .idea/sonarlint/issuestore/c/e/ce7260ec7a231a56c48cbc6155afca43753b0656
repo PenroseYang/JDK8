@@ -1,0 +1,32 @@
+
+m
+java:S3077f"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(èÄìó
+D
+java:S1604ë"(Make this anonymous inner class a lambda(úË§øûÿÿÿÿ
+o
+java:S1450l"YRemove the "discovered" field and declare it as a local variable in the relevant methods.(ŞÛğå
+[
+java:S1124l"EReorder the modifiers to comply with the Java Language Specification.(ŞÛğå
+e
+java:S3014ß"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•±Ìûûÿÿÿÿ
+F
+java:S2065l"0Remove the "transient" modifier from this field.(ŞÛğå
+X
+java:S2094t"BRemove this empty class, write its code or make it an "interface".(ãÒ†ò
+e
+java:S3014“"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¸Êğÿÿÿÿÿ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(“–ış
+e
+java:S3014Ş"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".( ÖàŠıÿÿÿÿ
+b
+java:S2142Í"FEither re-interrupt this method or rethrow the "InterruptedException".(ÔÍÏÚıÿÿÿÿ
+Q
+java:S2274¿":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ
+[
+java:S1124t"EReorder the modifiers to comply with the Java Language Specification.(ãÒ†ò
+m
+java:S3077^"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ûàÎä
+V	java:S125H"<This block of commented-out lines of code should be removed.(¦“Á ûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬Ô«ûÿÿÿÿ

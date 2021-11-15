@@ -1,0 +1,6 @@
+
+R
+java:S1481	"0Remove this unused "integerTest" local variable.(Ñú¹ûÿÿÿÿ8¦íÀ½£/
+a
+java:S1854	"?Remove this useless assignment to local variable "integerTest".(Ñú¹ûÿÿÿÿ8Ä­Ã½£/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¶à øÿÿÿÿ

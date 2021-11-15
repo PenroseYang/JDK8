@@ -1,0 +1,15 @@
+
+~
+java:S3038‹"b"getLocalAddress" is defined in the "NetworkChannel" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+A
+java:S1181¾"%Catch Exception instead of Throwable.(€çØıÿÿÿÿÿ
+z
+java:S3038î"^"write" is defined in the "GatheringByteChannel" interface and can be removed from this class.(‰Ó°¸úÿÿÿÿ
+A
+java:S1181Á"%Catch Exception instead of Throwable.(ñ²Ñşÿÿÿÿ
+s
+java:S3038Ó"\"read" is defined in the "ReadableByteChannel" interface and can be removed from this class.(‹ş€
+z
+java:S3038Ù"^"read" is defined in the "ScatteringByteChannel" interface and can be removed from this class.(øÅæ¼ıÿÿÿÿ
+y
+java:S3038è"]"write" is defined in the "WritableByteChannel" interface and can be removed from this class.(–Ê“±ùÿÿÿÿ

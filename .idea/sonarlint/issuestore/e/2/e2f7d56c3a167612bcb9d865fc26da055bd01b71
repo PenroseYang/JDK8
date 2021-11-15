@@ -1,0 +1,48 @@
+
+Q
+java:S1191•"5Use classes from the Java API instead of Sun classes.(û¾ìŒıÿÿÿÿ
+[
+java:S1124M"EReorder the modifiers to comply with the Java Language Specification.(û´¸è
+T
+java:S1197‹"8Move the array designator from the variable to the type.(¥Àåòüÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(‘ŞÌÃ
+\
+java:S1124Ö"EReorder the modifiers to comply with the Java Language Specification.(Şççã
+a
+java:S1124ã"EReorder the modifiers to comply with the Java Language Specification.(Ş¯§€ûÿÿÿÿ
+[
+java:S1134û"DTake the required action to fix the issue indicated by this comment.(¥°Õ
+I
+java:S1135û"2Complete the task associated to this TODO comment.(¥°Õ
+;
+java:S1659²"Declare "r" on a separate line.(‚ÍÜùøÿÿÿÿ
+R	java:S125¾"<This block of commented-out lines of code should be removed.(šêÅ˜
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(é™©ûÿÿÿÿ
+a
+java:S1124Ó"EReorder the modifiers to comply with the Java Language Specification.(Äı››şÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Š£êÓüÿÿÿÿ
+=
+java:S1659­"!Declare "len" on a separate line.(Åƒ¥üÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§…‚Õüÿÿÿÿ
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£Û°Úşÿÿÿÿ
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡¦Û
+O
+java:S1197"8Move the array designator from the variable to the type.(ú˜“Ó
+=
+java:S2129¥"!Remove this "Integer" constructor(½›Òşÿÿÿÿ
+8
+java:S2129É"!Remove this "Integer" constructor(€¿°Ú
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(‘øÈ„
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(…Ø±€
+?	java:S108×")Either remove or fill this block of code.(¼šÎÚ
+D	java:S108Ü")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+[
+java:S3358Û	"DExtract this nested ternary operation into an independent statement.(©¾±±
+=
+java:S1110“"!Remove these useless parentheses.(¿Íûıÿÿÿÿ
+=
+java:S1110–"!Remove these useless parentheses.(Ø¥…½øÿÿÿÿ

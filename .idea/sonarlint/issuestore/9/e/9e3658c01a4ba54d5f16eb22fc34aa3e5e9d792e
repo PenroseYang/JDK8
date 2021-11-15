@@ -1,0 +1,89 @@
+
+p
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–Ìôª8‡¼Á®–/
+c	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ8‡¼Á®–/
+}
+java:S1450¡	"_Remove the "waitingConsumers" field and declare it as a local variable in the relevant methods.(†êÿ8‡¼Á®–/
+o	java:S115Ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢
+L
+java:S1121ø".Extract the assignment out of this expression.(Â”İ‰8‡¼Á®–/
+g
+java:S3358ù"DExtract this nested ternary operation into an independent statement.(Ò¹›»ûÿÿÿÿ8‡¼Á®–/
+N
+java:S2065ç"0Remove the "transient" modifier from this field.(¦¡Ê÷8‡¼Á®–/
+w
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(îæƒá8‡¼Á®–/
+R
+java:S1068¡	"4Remove this unused "waitingConsumers" private field.(†êÿ8‡¼Á®–/
+p	java:S115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
+¤
+java:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ8‡¼Á®–/
+]
+java:S1610¬":Convert the abstract class "Transferer" into an interface.(–Ô´Şüÿÿÿÿ8¯–Ÿ®–/
+s
+java:S3077º"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÙÇ°çüÿÿÿÿ
+L
+java:S1191§"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+n
+java:S3077ğ"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜¸ÑÎ
+z
+java:S3077ã"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ç“Æûÿÿÿÿÿ8‡¼Á®–/
+p	java:S115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢´ü
+u
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ã‚çÀûÿÿÿÿ8‡¼Á®–/
+w	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš8‡¼Á®–/
+w
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(îæƒá8‡¼Á®–/
+p	java:S115¨"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¹üş
+u	java:S115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
+g
+java:S3358Æ"DExtract this nested ternary operation into an independent statement.(Ò¹›»ûÿÿÿÿ8‡¼Á®–/
+u
+java:S3077í"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Û¾´£8‡¼Á®–/
+|	java:S115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ8‡¼Á®–/
+\	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+s
+java:S3077ª"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.( äŸúÿÿÿÿ
+c	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ8‡¼Á®–/
+s
+java:S3077î"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¡¶Èıÿÿÿÿ
+u
+java:S3077ç"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¦¡Ê÷8‡¼Á®–/
+u
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(²‡øöûÿÿÿÿ8‡¼Á®–/
+c	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ8‡¼Á®–/
+u	java:S115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•–Ã°ıÿÿÿÿ
+]
+java:S1161Ï":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ8‡¼Á®–/
+G
+java:S1068Ÿ	")Remove this unused "qlock" private field.(Ÿ–¥é8‡¼Á®–/
+n	java:S117É	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉãÜ8‡¼Á®–/
+|	java:S115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÊô§ÿÿÿÿÿ8‡¼Á®–/
+r
+java:S1450Ÿ	"TRemove the "qlock" field and declare it as a local variable in the relevant methods.(Ÿ–¥é8‡¼Á®–/
+n
+java:S3077í"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(×Ìœ
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(èüøÅûÿÿÿÿ
+s
+java:S3077©"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¹İ—öùÿÿÿÿ
+u
+java:S3077«"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜¸ÑÎ8‡¼Á®–/
+v	java:S135³"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™8‡¼Á®–/
+z
+java:S3077å"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ù–ÅÑûÿÿÿÿ8‡¼Á®–/
+S
+java:S2065å"0Remove the "transient" modifier from this field.(Ù–ÅÑûÿÿÿÿ8‡¼Á®–/
+Q
+java:S1121…".Extract the assignment out of this expression.(ĞõÓ¢úÿÿÿÿ8‡¼Á®–/
+u
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(èüøÅûÿÿÿÿ8‡¼Á®–/
+|
+java:S2293Ã	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÀÏîøÿÿÿÿ8‡¼Á®–/
+N
+java:S2065í"0Remove the "transient" modifier from this field.(Û¾´£8‡¼Á®–/
+v	java:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.( Ëı 8‡¼Á®–/
+p	java:S115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñê€Ô
+w
+java:S2293Å	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÓ®8‡¼Á®–/
+u	java:S115Ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¸³Èúÿÿÿÿ
